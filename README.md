@@ -2,7 +2,9 @@
 
 程序下载地址：链接: https://pan.baidu.com/s/1jASXfQttuPcXW-L40JwDWA?pwd=ubtx 提取码: ubtx 
 
-主要目的是为了下载国家标准全文公开系统（https://openstd.samr.gov.cn/bzgk/gb/）内的标准文档
+主要目的是为了下载国家标准全文公开系统内的标准文档
+
+查询网址：https://openstd.samr.gov.cn/bzgk/gb/
 
 打开要下载的文档链接，点击在线预览，然后把预览页的网址复制到软件上即可下载。
 
