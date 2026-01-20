@@ -1,5 +1,12 @@
 # GB标准文档下载器项目开发文档
 程序下载地址：链接: https://pan.baidu.com/s/1jASXfQttuPcXW-L40JwDWA?pwd=ubtx 提取码: ubtx 
+主要目的是为了下载国家标准全文公开系统（https://openstd.samr.gov.cn/bzgk/gb/）内的标准文档
+打开要下载的文档链接，点击在线预览，然后把预览页的网址复制到软件上即可下载。
+有的文档加密了，只能在线观看，就可以使用此软件下载。
+<img width="509" height="239" alt="image" src="https://github.com/user-attachments/assets/02c8d45b-c007-489c-85c3-8f229f7f59d4" />
+<img width="1048" height="635" alt="image" src="https://github.com/user-attachments/assets/484a56d5-b8df-4aa9-b601-041cc9382297" />
+
+
 ## 一、技术栈
 
 ### 1. 核心技术栈
